@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "877593288177",
+    "firebase_url": "https://fooddeliveryapp-d150d.firebaseio.com",
+    "project_id": "fooddeliveryapp-d150d",
+    "storage_bucket": "fooddeliveryapp-d150d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:877593288177:android:16bd3fcb6ba32ff2",
+        "android_client_info": {
+          "package_name": "com.warriorprod.fooddeliveryapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "877593288177-rrbhd2661o54qd4lbja9ba51roe5b9rf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.warriorprod.fooddeliveryapp",
+            "certificate_hash": "4f8d3352cf446bc2f8753fc75a369b595f7f0fc3"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBA7ji70m4ABX8_fnyzI7NBQSnLbMZ7BgU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "877593288177-v848fic5d7lk88mpmvuqrntb6eklmmq7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:877593288177:android:fc55d4cccef1d006",
+        "android_client_info": {
+          "package_name": "com.warriorprod.fooddeliveryappserver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "877593288177-rf6aht9j3g8artp3ceadmqqnd751bc93.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.warriorprod.fooddeliveryappserver",
+            "certificate_hash": "4f8d3352cf446bc2f8753fc75a369b595f7f0fc3"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBA7ji70m4ABX8_fnyzI7NBQSnLbMZ7BgU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "877593288177-v848fic5d7lk88mpmvuqrntb6eklmmq7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
